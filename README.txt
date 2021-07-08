@@ -4,4 +4,6 @@ For commit -v
 Test amend
 Test checkout --
 Second commit after set tag
-Bad name branch
+Bad name branchi
+MUst reset
+
